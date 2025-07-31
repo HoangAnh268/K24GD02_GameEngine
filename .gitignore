@@ -1,0 +1,161 @@
+lab2-Flappybird/Assets/Audio.meta
+lab2-Flappybird/Assets/Audio/die.ogg.meta
+lab2-Flappybird/Assets/Audio/die.wav.meta
+lab2-Flappybird/Assets/Audio/hit.ogg.meta
+lab2-Flappybird/Assets/Audio/hit.wav.meta
+lab2-Flappybird/Assets/Audio/point.ogg.meta
+lab2-Flappybird/Assets/Audio/point.wav.meta
+lab2-Flappybird/Assets/Audio/swoosh.ogg.meta
+lab2-Flappybird/Assets/Audio/swoosh.wav.meta
+lab2-Flappybird/Assets/Audio/wing.ogg.meta
+lab2-Flappybird/Assets/Audio/wing.wav.meta
+lab2-Flappybird/Assets/Prefabs.meta
+lab2-Flappybird/Assets/Prefabs/pipe.prefab.meta
+lab2-Flappybird/Assets/Scenes.meta
+lab2-Flappybird/Assets/Scenes/SampleScene.unity.meta
+lab2-Flappybird/Assets/Script.meta
+lab2-Flappybird/Assets/Script/BirdController.cs.meta
+lab2-Flappybird/Assets/Script/GameManager.cs.meta
+lab2-Flappybird/Assets/Script/MoveLeft.cs.meta
+lab2-Flappybird/Assets/Script/PipeSpawner.cs.meta
+lab2-Flappybird/Assets/Script/ScoreTrigger.cs.meta
+lab2-Flappybird/Assets/Settings.meta
+lab2-Flappybird/Assets/Settings/0.png
+lab2-Flappybird/Assets/Settings/0.png.meta
+lab2-Flappybird/Assets/Settings/DefaultVolumeProfile.asset.meta
+lab2-Flappybird/Assets/Settings/InputSystem_Actions.inputactions.meta
+lab2-Flappybird/Assets/Settings/Lit2DSceneTemplate.scenetemplate.meta
+lab2-Flappybird/Assets/Settings/Renderer2D.asset.meta
+lab2-Flappybird/Assets/Settings/Scenes.meta
+lab2-Flappybird/Assets/Settings/Scenes/URP2DSceneTemplate.unity.meta
+lab2-Flappybird/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta
+lab2-Flappybird/Assets/Settings/UniversalRP.asset.meta
+lab2-Flappybird/Assets/Sprites.meta
+lab2-Flappybird/Assets/Sprites/1.png
+lab2-Flappybird/Assets/Sprites/1.png.meta
+lab2-Flappybird/Assets/Sprites/2.png
+lab2-Flappybird/Assets/Sprites/2.png.meta
+lab2-Flappybird/Assets/Sprites/3.png
+lab2-Flappybird/Assets/Sprites/3.png.meta
+lab2-Flappybird/Assets/Sprites/4.png
+lab2-Flappybird/Assets/Sprites/4.png.meta
+lab2-Flappybird/Assets/Sprites/5.png
+lab2-Flappybird/Assets/Sprites/5.png.meta
+lab2-Flappybird/Assets/Sprites/6.png
+lab2-Flappybird/Assets/Sprites/6.png.meta
+lab2-Flappybird/Assets/Sprites/7.png
+lab2-Flappybird/Assets/Sprites/7.png.meta
+lab2-Flappybird/Assets/Sprites/8.png
+lab2-Flappybird/Assets/Sprites/8.png.meta
+lab2-Flappybird/Assets/Sprites/9.png
+lab2-Flappybird/Assets/Sprites/9.png.meta
+lab2-Flappybird/Assets/Sprites/background-day.png
+lab2-Flappybird/Assets/Sprites/background-day.png.meta
+lab2-Flappybird/Assets/Sprites/background-night.png
+lab2-Flappybird/Assets/Sprites/background-night.png.meta
+lab2-Flappybird/Assets/Sprites/BackGround.mat.meta
+lab2-Flappybird/Assets/Sprites/base.png
+lab2-Flappybird/Assets/Sprites/base.png.meta
+lab2-Flappybird/Assets/Sprites/Bird.anim.meta
+lab2-Flappybird/Assets/Sprites/bluebird-downflap.png
+lab2-Flappybird/Assets/Sprites/bluebird-downflap.png.meta
+lab2-Flappybird/Assets/Sprites/bluebird-midflap.png
+lab2-Flappybird/Assets/Sprites/bluebird-midflap.png.meta
+lab2-Flappybird/Assets/Sprites/bluebird-upflap.png
+lab2-Flappybird/Assets/Sprites/bluebird-upflap.png.meta
+lab2-Flappybird/Assets/Sprites/FlappybirdyRegular-KaBW.ttf.meta
+lab2-Flappybird/Assets/Sprites/gameover.png
+lab2-Flappybird/Assets/Sprites/gameover.png.meta
+lab2-Flappybird/Assets/Sprites/isIdelBird.anim.meta
+lab2-Flappybird/Assets/Sprites/message.png
+lab2-Flappybird/Assets/Sprites/message.png.meta
+lab2-Flappybird/Assets/Sprites/pipe-green.png
+lab2-Flappybird/Assets/Sprites/pipe-green.png.meta
+lab2-Flappybird/Assets/Sprites/pipe-red.png
+lab2-Flappybird/Assets/Sprites/pipe-red.png.meta
+lab2-Flappybird/Assets/Sprites/redbird-downflap.png
+lab2-Flappybird/Assets/Sprites/redbird-downflap.png.meta
+lab2-Flappybird/Assets/Sprites/redbird-midflap.png
+lab2-Flappybird/Assets/Sprites/redbird-midflap.png.meta
+lab2-Flappybird/Assets/Sprites/redbird-upflap.png
+lab2-Flappybird/Assets/Sprites/redbird-upflap.png.meta
+lab2-Flappybird/Assets/Sprites/restart.png
+lab2-Flappybird/Assets/Sprites/restart.png.meta
+lab2-Flappybird/Assets/Sprites/yellowbird-downflap.png
+lab2-Flappybird/Assets/Sprites/yellowbird-downflap.png.meta
+lab2-Flappybird/Assets/Sprites/yellowbird-downflap_0.controller.meta
+lab2-Flappybird/Assets/Sprites/yellowbird-midflap.png
+lab2-Flappybird/Assets/Sprites/yellowbird-midflap.png.meta
+lab2-Flappybird/Assets/Sprites/yellowbird-upflap.png
+lab2-Flappybird/Assets/Sprites/yellowbird-upflap.png.meta
+lab2-Flappybird/Assets/TextMesh Pro.meta
+lab2-Flappybird/Assets/TextMesh Pro/Fonts.meta
+lab2-Flappybird/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+lab2-Flappybird/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+lab2-Flappybird/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+lab2-Flappybird/Assets/TextMesh Pro/Resources.meta
+lab2-Flappybird/Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+lab2-Flappybird/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+lab2-Flappybird/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+lab2-Flappybird/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+lab2-Flappybird/Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+lab2-Flappybird/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+lab2-Flappybird/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+lab2-Flappybird/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+lab2-Flappybird/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+lab2-Flappybird/Assets/TextMesh Pro/Resources/Sprite Assets.meta
+lab2-Flappybird/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+lab2-Flappybird/Assets/TextMesh Pro/Resources/Style Sheets.meta
+lab2-Flappybird/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+lab2-Flappybird/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMPro.cginc
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+lab2-Flappybird/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta
+lab2-Flappybird/Assets/TextMesh Pro/Sprites.meta
+lab2-Flappybird/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+lab2-Flappybird/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+lab2-Flappybird/Assets/TextMesh Pro/Sprites/EmojiOne.json
+lab2-Flappybird/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+lab2-Flappybird/Assets/TextMesh Pro/Sprites/EmojiOne.png
+lab2-Flappybird/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+lab2-Flappybird/ProjectSettings/ProjectVersion.txt
+lab2-Flappybird/ProjectSettings/SceneTemplateSettings.json
