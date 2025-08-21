@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - pointA
+  - pointB
+  - Enemy
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3252519733
+    locked: 0
+  - name: Tree
+    uniqueID: 4016242339
+    locked: 0
+  - name: Platform
+    uniqueID: 3008696815
+    locked: 0
+  - name: Ground
+    uniqueID: 3155531819
+    locked: 0
+  - name: Enemy
+    uniqueID: 3725522133
+    locked: 0
+  - name: Obj
+    uniqueID: 2369847533
+    locked: 0
+  - name: player
+    uniqueID: 921395883
+    locked: 0
+  - name: UI
+    uniqueID: 3935857225
+    locked: 0
+  m_RenderingLayers:
+  - Default
