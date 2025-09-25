@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: f2d9bbac80d601e4c88458f300190165
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6641017511641126208
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_0
+  - first:
+      213: 4975086089044165691
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_1
+  - first:
+      213: -3403097844440531374
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_2
+  - first:
+      213: -5113570840232823173
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_3
+  - first:
+      213: 3527798238729267252
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_4
+  - first:
+      213: -9041355208130353918
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_5
+  - first:
+      213: 1108542588151191429
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_6
+  - first:
+      213: -9104070859840648868
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_7
+  - first:
+      213: -6505288751525196594
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_8
+  - first:
+      213: -2270746943086349835
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_9
+  - first:
+      213: -7850866395022221054
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_10
+  - first:
+      213: 6245951716515202436
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_11
+  - first:
+      213: 9054190459689949301
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_12
+  - first:
+      213: 870977093254809231
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_13
+  - first:
+      213: -5824269920046923596
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_14
+  - first:
+      213: 7665705529636826115
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_15
+  - first:
+      213: -8249559069493247525
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_16
+  - first:
+      213: -1088111754018278963
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_17
+  - first:
+      213: -6241314510839783466
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_18
+  - first:
+      213: 8490060533662785322
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_19
+  - first:
+      213: 706682127824659655
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_20
+  - first:
+      213: 5851007445504628185
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_21
+  - first:
+      213: -1650809227618895862
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_22
+  - first:
+      213: -2677615788893260659
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_23
+  - first:
+      213: -4354273829255732416
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_24
+  - first:
+      213: -632234117454377228
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_25
+  - first:
+      213: -6712482769645943173
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_26
+  - first:
+      213: 6266832323243028199
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_27
+  - first:
+      213: -3610345900201896186
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_28
+  - first:
+      213: -7164122414260142559
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_29
+  - first:
+      213: 345179615302451267
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_30
+  - first:
+      213: -3423081346363492937
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_31
+  - first:
+      213: -2188757048133556554
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_32
+  - first:
+      213: 9165542005982455908
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_33
+  - first:
+      213: 1548506427249682999
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_34
+  - first:
+      213: 3409522238962346599
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_35
+  - first:
+      213: -8104704076386597378
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_36
+  - first:
+      213: -6645253658601180676
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_37
+  - first:
+      213: -944733184356257659
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_38
+  - first:
+      213: -4841213283478637369
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_39
+  - first:
+      213: -1749037357891995219
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_40
+  - first:
+      213: -3935336367686705996
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_41
+  - first:
+      213: -2470718491214420029
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_42
+  - first:
+      213: 8630553780790928476
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_43
+  - first:
+      213: -5662211900482337420
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_44
+  - first:
+      213: -8156843947370048748
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_45
+  - first:
+      213: -6454004050590499874
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_46
+  - first:
+      213: -8202604523460225556
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_47
+  - first:
+      213: -4534435816250068043
+    second: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 622
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0459480cd32a92c50800000000000000
+      internalID: 6641017511641126208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 620
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b340778507e0b0540800000000000000
+      internalID: 4975086089044165691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 556
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e79367a84c5c0d0800000000000000
+      internalID: -3403097844440531374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 559
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b767026e962f809b0800000000000000
+      internalID: -5113570840232823173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 548
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438e4ba9ec145f030800000000000000
+      internalID: 3527798238729267252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 546
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20523436757a68280800000000000000
+      internalID: -9041355208130353918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 482
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587d4215c95526f00800000000000000
+      internalID: 1108542588151191429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 483
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c598635d9c7d7a180800000000000000
+      internalID: -9104070859840648868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 467
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc0ff3d85298b5a0800000000000000
+      internalID: -6505288751525196594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 465
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1b88aafafac70e0800000000000000
+      internalID: -2270746943086349835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 405
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20126a10c9e1c0390800000000000000
+      internalID: -7850866395022221054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 405
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48541236ef31ea650800000000000000
+      internalID: 6245951716515202436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 388
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578dc8e7042f6ad70800000000000000
+      internalID: 9054190459689949301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 388
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8684fa3d05561c00800000000000000
+      internalID: 870977093254809231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 386
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b04c93bd590c2fa0800000000000000
+      internalID: -5824269920046923596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 388
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c20c6809e026a60800000000000000
+      internalID: 7665705529636826115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 318
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1c04dfbbda38d80800000000000000
+      internalID: -8249559069493247525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 323
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc130d1ff1046e0f0800000000000000
+      internalID: -1088111754018278963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 304
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df57e135856269a0800000000000000
+      internalID: -6241314510839783466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 304
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f9886b211c2d570800000000000000
+      internalID: 8490060533662785322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 304
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c42b1ea6a3aec900800000000000000
+      internalID: 706682127824659655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 304
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5187f8544f23150800000000000000
+      internalID: 5851007445504628185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 304
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08b6dbf0c52719e0800000000000000
+      internalID: -1650809227618895862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 304
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d843a0a60a237dad0800000000000000
+      internalID: -2677615788893260659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 304
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043ae60b5038293c0800000000000000
+      internalID: -4354273829255732416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fecf3e7b6ad937f0800000000000000
+      internalID: -632234117454377228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 302
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76c25a3c7878d2a0800000000000000
+      internalID: -6712482769645943173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 304
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee26dd7bc248f650800000000000000
+      internalID: 6266832323243028199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 304
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6079d2e388975edc0800000000000000
+      internalID: -3610345900201896186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_29
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 304
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e3c921f9ce39c90800000000000000
+      internalID: -7164122414260142559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 304
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3400fc108035ac400800000000000000
+      internalID: 345179615302451267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 205
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5fcb8d6a5ce70d0800000000000000
+      internalID: -3423081346363492937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 237
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6ed5eaf09ff91e0800000000000000
+      internalID: -2188757048133556554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 201
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4686180b4eb823f70800000000000000
+      internalID: 9165542005982455908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 190
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a60a824666d7510800000000000000
+      internalID: 1548506427249682999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 190
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a2523796e015f20800000000000000
+      internalID: 3409522238962346599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 190
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef50155459e468f80800000000000000
+      internalID: -8104704076386597378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 190
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf136bc610157c3a0800000000000000
+      internalID: -6645253658601180676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_38
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 126
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580fbea9c22a3e2f0800000000000000
+      internalID: -944733184356257659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_39
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 125
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c47a542b2e80dcb0800000000000000
+      internalID: -4841213283478637369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 150
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9b5ff2acb2ab7e0800000000000000
+      internalID: -1749037357891995219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 114
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc9b548c60e269c0800000000000000
+      internalID: -3935336367686705996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 114
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7ec276f9e36bdd0800000000000000
+      internalID: -2470718491214420029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 114
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54a2fedfe2e5c770800000000000000
+      internalID: 8630553780790928476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_44
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 114
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475c2c4b648cb61b0800000000000000
+      internalID: -5662211900482337420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_45
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41396bc85a11dce80800000000000000
+      internalID: -8156843947370048748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 114
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbfe91c285ce66a0800000000000000
+      internalID: -6454004050590499874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 114
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5142a25ae7a2e80800000000000000
+      internalID: -8202604523460225556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 114
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b33b9b46a27211c0800000000000000
+      internalID: -4534435816250068043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_0: 6641017511641126208
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_1: 4975086089044165691
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_10: -7850866395022221054
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_11: 6245951716515202436
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_12: 9054190459689949301
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_13: 870977093254809231
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_14: -5824269920046923596
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_15: 7665705529636826115
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_16: -8249559069493247525
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_17: -1088111754018278963
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_18: -6241314510839783466
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_19: 8490060533662785322
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_2: -3403097844440531374
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_20: 706682127824659655
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_21: 5851007445504628185
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_22: -1650809227618895862
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_23: -2677615788893260659
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_24: -4354273829255732416
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_25: -632234117454377228
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_26: -6712482769645943173
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_27: 6266832323243028199
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_28: -3610345900201896186
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_29: -7164122414260142559
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_3: -5113570840232823173
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_30: 345179615302451267
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_31: -3423081346363492937
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_32: -2188757048133556554
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_33: 9165542005982455908
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_34: 1548506427249682999
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_35: 3409522238962346599
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_36: -8104704076386597378
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_37: -6645253658601180676
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_38: -944733184356257659
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_39: -4841213283478637369
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_4: 3527798238729267252
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_40: -1749037357891995219
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_41: -3935336367686705996
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_42: -2470718491214420029
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_43: 8630553780790928476
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_44: -5662211900482337420
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_45: -8156843947370048748
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_46: -6454004050590499874
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_47: -8202604523460225556
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_48: -4534435816250068043
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_5: -9041355208130353918
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_6: 1108542588151191429
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_7: -9104070859840648868
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_8: -6505288751525196594
+      PC _ Computer - Star Wars_ Yoda Stories - Vehicles - Ships_9: -2270746943086349835
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

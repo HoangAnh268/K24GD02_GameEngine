@@ -1,0 +1,2782 @@
+fileFormatVersion: 2
+guid: b13aed92a6c1838459982a124284d3dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6938179934558747939
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_0
+  - first:
+      213: -4634390754759141170
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_1
+  - first:
+      213: 3802255758729144295
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_2
+  - first:
+      213: 8103177710676027544
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_3
+  - first:
+      213: 7477774864091961814
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_4
+  - first:
+      213: 2651282823909624933
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_5
+  - first:
+      213: 5402151698514514760
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_6
+  - first:
+      213: -4954176087237078454
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_7
+  - first:
+      213: -5417081429720611940
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_8
+  - first:
+      213: 3019466380327146237
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_9
+  - first:
+      213: 7079046025722181635
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_10
+  - first:
+      213: -4640268988336433956
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_11
+  - first:
+      213: 3420102711308185414
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_12
+  - first:
+      213: -2055549792274605438
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_13
+  - first:
+      213: -2835297180458370037
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_14
+  - first:
+      213: 6123722802394616391
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_15
+  - first:
+      213: 9119699958694645435
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_16
+  - first:
+      213: 1635121061395790906
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_17
+  - first:
+      213: 5346538769006666958
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_18
+  - first:
+      213: -5481107772942507484
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_19
+  - first:
+      213: -826124650880620625
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_20
+  - first:
+      213: 8188988543334967800
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_21
+  - first:
+      213: -1736462661368012458
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_22
+  - first:
+      213: 5688948035320306894
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_23
+  - first:
+      213: 5693592541281830933
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_24
+  - first:
+      213: -8040830692186740580
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_25
+  - first:
+      213: -8290611525473884213
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_26
+  - first:
+      213: 1061784628703822218
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_27
+  - first:
+      213: -4909754212389011779
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_28
+  - first:
+      213: 5723116875314033407
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_29
+  - first:
+      213: -5249199260174503612
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_30
+  - first:
+      213: -3526501818855158775
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_31
+  - first:
+      213: -2199426732957093323
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_32
+  - first:
+      213: -1526534132706042797
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_33
+  - first:
+      213: -6120958417863634594
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_34
+  - first:
+      213: -1323012561866549350
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_35
+  - first:
+      213: 7956024387158964230
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_36
+  - first:
+      213: -2501498046425385689
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_37
+  - first:
+      213: 339768516800002954
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_38
+  - first:
+      213: -1076912816750435035
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_39
+  - first:
+      213: -8474671889884131911
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_40
+  - first:
+      213: 8889459296441641789
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_41
+  - first:
+      213: -7162164776515436975
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_42
+  - first:
+      213: 5354196341964711495
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_43
+  - first:
+      213: 3240118289219462237
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_44
+  - first:
+      213: -5548585260069271918
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_45
+  - first:
+      213: -5458980879183239009
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_46
+  - first:
+      213: -1855559988621629860
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_47
+  - first:
+      213: -4974242920812476318
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_48
+  - first:
+      213: 8784689826606047458
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_49
+  - first:
+      213: -5640067791431040680
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_50
+  - first:
+      213: -6486152330156807285
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_51
+  - first:
+      213: 4150257992973362562
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_52
+  - first:
+      213: 3110548918978937952
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_53
+  - first:
+      213: -5898937815792890707
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_54
+  - first:
+      213: 2656629264175559295
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_55
+  - first:
+      213: 15420832185761936
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_56
+  - first:
+      213: 2931469639634670048
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_57
+  - first:
+      213: -8187403155268187728
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_58
+  - first:
+      213: -6129810311926053203
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_59
+  - first:
+      213: -990357331098074600
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_60
+  - first:
+      213: -3214999174047736317
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_61
+  - first:
+      213: -9163362136033432342
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_62
+  - first:
+      213: -4789260969548703436
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_63
+  - first:
+      213: -8223262733658003939
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_64
+  - first:
+      213: 6364329448001712883
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_65
+  - first:
+      213: 2429563988825194954
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_66
+  - first:
+      213: 3856774323489779002
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_67
+  - first:
+      213: -7916232572977982623
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_68
+  - first:
+      213: -1951947660659142110
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_69
+  - first:
+      213: -1136456762382629600
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_70
+  - first:
+      213: -4796607937865384734
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_71
+  - first:
+      213: 7582395838734380233
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_72
+  - first:
+      213: -2773809449372685909
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_73
+  - first:
+      213: -4513255187839430301
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_74
+  - first:
+      213: 2025949962489997702
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_75
+  - first:
+      213: 4896781301808749172
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_76
+  - first:
+      213: 4419826949832658472
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_77
+  - first:
+      213: -3446747572578746645
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_78
+  - first:
+      213: -5029237648914817786
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_79
+  - first:
+      213: -5087570616638986192
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_80
+  - first:
+      213: 8053153343961816997
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_81
+  - first:
+      213: -9095678170407146927
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_82
+  - first:
+      213: 560759095014731779
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_83
+  - first:
+      213: 9051261857191624166
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_84
+  - first:
+      213: 782331822360825388
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_85
+  - first:
+      213: -8718550796972011801
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_86
+  - first:
+      213: 7345534521895805886
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_87
+  - first:
+      213: -9087234722609208698
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_88
+  - first:
+      213: -2599381253599580559
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_89
+  - first:
+      213: 6737744397729693913
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_90
+  - first:
+      213: -5557713497164058287
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_91
+  - first:
+      213: 547727379726197093
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_92
+  - first:
+      213: 1312511123599440643
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_93
+  - first:
+      213: 5825443497388795808
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_94
+  - first:
+      213: -8024885574255060547
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_95
+  - first:
+      213: 2437679246068072999
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_96
+  - first:
+      213: 2236806754815644723
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_97
+  - first:
+      213: 2242475041425260713
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_98
+  - first:
+      213: 730475453790904367
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_99
+  - first:
+      213: 841295618913013936
+    second: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 214
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd202ec0c12a6bf90800000000000000
+      internalID: -6938179934558747939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 214
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec81a30a9265fafb0800000000000000
+      internalID: -4634390754759141170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 214
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7eb34a77354c430800000000000000
+      internalID: 3802255758729144295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 214
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89825b40235447070800000000000000
+      internalID: 8103177710676027544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 213
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9db84be9466c760800000000000000
+      internalID: 7477774864091961814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 213
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c4a366eaf3bc420800000000000000
+      internalID: 2651282823909624933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 174
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8431bb4195c48fa40800000000000000
+      internalID: 5402151698514514760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 174
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42df75d81b3f3bb0800000000000000
+      internalID: -4954176087237078454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 174
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93432ef329a2d4b0800000000000000
+      internalID: -5417081429720611940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 174
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df252a2dcac47e920800000000000000
+      internalID: 3019466380327146237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 175
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308bfcf9ad2dd3260800000000000000
+      internalID: 7079046025722181635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 175
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd412f7b0f37a9fb0800000000000000
+      internalID: -4640268988336433956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 146
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fefd2ab45a67f20800000000000000
+      internalID: 3420102711308185414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 146
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a185dca583973e0800000000000000
+      internalID: -2055549792274605438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 157
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cbc168c3007a8d0800000000000000
+      internalID: -2835297180458370037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 154
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742d0b3a175dbf450800000000000000
+      internalID: 6123722802394616391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 141
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe83205bceaf8e70800000000000000
+      internalID: 9119699958694645435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 133
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c714d21fd11b610800000000000000
+      internalID: 1635121061395790906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 133
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec42f78eea8b23a40800000000000000
+      internalID: 5346538769006666958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_19
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 93
+        width: 6
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422212a45813fe3b0800000000000000
+      internalID: -5481107772942507484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 85
+        width: 6
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7211cc1040984f0800000000000000
+      internalID: -826124650880620625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 76
+        width: 6
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9693b61b125a170800000000000000
+      internalID: 8188988543334967800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 7
+        width: 10
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6512e6fd868d6e7e0800000000000000
+      internalID: -1736462661368012458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 63
+        width: 17
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc5ce6c81433fe40800000000000000
+      internalID: 5688948035320306894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 148
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518cae61044b30f40800000000000000
+      internalID: 5693592541281830933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 148
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98a62d661b396090800000000000000
+      internalID: -8040830692186740580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_26
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 148
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7ae5d3eb4d1fc80800000000000000
+      internalID: -8290611525473884213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_27
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 148
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a818cd58e773cbe00800000000000000
+      internalID: 1061784628703822218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 146
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe331c8e8c0ddbb0800000000000000
+      internalID: -4909754212389011779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_29
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 148
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2f229c9789c6f40800000000000000
+      internalID: 5723116875314033407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 148
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4413e0695191727b0800000000000000
+      internalID: -5249199260174503612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 140
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c8e5ba7495f0fc0800000000000000
+      internalID: -3526501818855158775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53238981a011a71e0800000000000000
+      internalID: -2199426732957093323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_33
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 136
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c1c825b49a0dae0800000000000000
+      internalID: -1526534132706042797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 136
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e511d4acfbcfd0ba0800000000000000
+      internalID: -6120958417863634594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 136
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a979098a517b3ade0800000000000000
+      internalID: -1323012561866549350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_36
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 136
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60874fcf60a796e60800000000000000
+      internalID: 7956024387158964230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 136
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7253b70c7c4e84dd0800000000000000
+      internalID: -2501498046425385689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 136
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bb9b57aa917b400800000000000000
+      internalID: 339768516800002954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 134
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5256687bf790e01f0800000000000000
+      internalID: -1076912816750435035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 136
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdc77f11dae36a80800000000000000
+      internalID: -8474671889884131911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 87
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ba2b9b124bd5b70800000000000000
+      internalID: 8889459296441641789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_42
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 55
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e7bf02511ea9c90800000000000000
+      internalID: -7162164776515436975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 92
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746a08c843ded4a40800000000000000
+      internalID: 5354196341964711495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_44
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 90
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d542c2bca6637fc20800000000000000
+      internalID: 3240118289219462237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_45
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 93
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2964a978a177ff2b0800000000000000
+      internalID: -5548585260069271918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 111
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9822a430ddcd34b0800000000000000
+      internalID: -5458980879183239009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 116
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56a7c2850abf36e0800000000000000
+      internalID: -1855559988621629860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268887e0b60f7fab0800000000000000
+      internalID: -4974242920812476318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_49
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 110
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e067d0aadc79e970800000000000000
+      internalID: 8784689826606047458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_50
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 110
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85181aed9347ab1b0800000000000000
+      internalID: -5640067791431040680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_51
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b6ee122de8cf5a0800000000000000
+      internalID: -6486152330156807285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_52
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 112
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2852765d7ada89930800000000000000
+      internalID: 4150257992973362562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_53
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 112
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064073ce2c3ea2b20800000000000000
+      internalID: 3110548918978937952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_54
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 110
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daccb897f43c22ea0800000000000000
+      internalID: -5898937815792890707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_55
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 112
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7277178d3e3ed420800000000000000
+      internalID: 2656629264175559295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_56
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 111
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c2984a29c63000800000000000000
+      internalID: 15420832185761936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_57
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1544c0b1caea820800000000000000
+      internalID: 2931469639634670048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_58
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 100
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9c3518530806e80800000000000000
+      internalID: -8187403155268187728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_59
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 98
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da60f199ff98eeaa0800000000000000
+      internalID: -6129810311926053203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_60
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 100
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8120237214b8142f0800000000000000
+      internalID: -990357331098074600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_61
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 100
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ed5b5f8470263d0800000000000000
+      internalID: -3214999174047736317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 100
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec6675dfa235d080800000000000000
+      internalID: -9163362136033432342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 100
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4391865d580298db0800000000000000
+      internalID: -4789260969548703436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_64
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 98
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d166b99cc1a11ed80800000000000000
+      internalID: -8223262733658003939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_65
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 100
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f233bdc9e3a25850800000000000000
+      internalID: 6364329448001712883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_66
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 100
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1c101539b87b120800000000000000
+      internalID: 2429563988825194954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_67
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 100
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3da47a20d3068530800000000000000
+      internalID: 3856774323489779002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_68
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 66
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1635548ba64e32290800000000000000
+      internalID: -7916232572977982623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_69
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 76
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222d14ac1f949e4e0800000000000000
+      internalID: -1951947660659142110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_70
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 76
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025c797889e7a30f0800000000000000
+      internalID: -1136456762382629600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_71
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 74
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecf6b87e760f6db0800000000000000
+      internalID: -4796607937865384734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_72
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 74
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cca92297d41a3960800000000000000
+      internalID: 7582395838734380233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_73
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 74
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9e48780037189d0800000000000000
+      internalID: -2773809449372685909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_74
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3615424a152bd51c0800000000000000
+      internalID: -4513255187839430301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_75
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689aee6c1ce9d1c10800000000000000
+      internalID: 2025949962489997702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_76
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 76
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ad51556acd4f340800000000000000
+      internalID: 4896781301808749172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_77
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 76
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e49719131665d30800000000000000
+      internalID: 4419826949832658472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_78
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 76
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beef00a2851ba20d0800000000000000
+      internalID: -3446747572578746645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_79
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 64
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d596d110f843ab0800000000000000
+      internalID: -5029237648914817786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_80
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 64
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038a481ba715569b0800000000000000
+      internalID: -5087570616638986192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_81
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 62
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afd7948c4c82cf60800000000000000
+      internalID: 8053153343961816997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_82
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 64
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a6b9d15e8a5c180800000000000000
+      internalID: -9095678170407146927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_83
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 64
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3003ce60d6738c700800000000000000
+      internalID: 560759095014731779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_84
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 64
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edf2f614ba8c9d70800000000000000
+      internalID: 9051261857191624166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_85
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 40
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e0d40c5a66bda00800000000000000
+      internalID: 782331822360825388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_86
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 40
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eec8463e3c710780800000000000000
+      internalID: -8718550796972011801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_87
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 40
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3e7f6bab490f560800000000000000
+      internalID: 7345534521895805886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_88
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 40
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68268408a28a3e180800000000000000
+      internalID: -9087234722609208698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_89
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e236f95842debd0800000000000000
+      internalID: -2599381253599580559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_90
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d08e06e4d6418d50800000000000000
+      internalID: 6737744397729693913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_91
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151742635090fd2b0800000000000000
+      internalID: -5557713497164058287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_92
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 40
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561e55e562be99700800000000000000
+      internalID: 547727379726197093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_93
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bb4e5b9e9f63210800000000000000
+      internalID: 1312511123599440643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_94
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7e7f01ff128d050800000000000000
+      internalID: 5825443497388795808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_95
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9de5f7611e1a090800000000000000
+      internalID: -8024885574255060547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_96
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722ca32eb5064d120800000000000000
+      internalID: 2437679246068072999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_97
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3341bf374ebba0f10800000000000000
+      internalID: 2236806754815644723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_98
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a005d54b2fde1f10800000000000000
+      internalID: 2242475041425260713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_99
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2069541e8b232a00800000000000000
+      internalID: 730475453790904367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_100
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 26
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0176478e1ecab00800000000000000
+      internalID: 841295618913013936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a894a8985207922419ea378ee9b3613e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_0: -6938179934558747939
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_1: -4634390754759141170
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_10: 7079046025722181635
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_100: 841295618913013936
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_11: -4640268988336433956
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_12: 3420102711308185414
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_13: -2055549792274605438
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_14: -2835297180458370037
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_15: 6123722802394616391
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_16: 9119699958694645435
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_17: 1635121061395790906
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_18: 5346538769006666958
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_19: -5481107772942507484
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_2: 3802255758729144295
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_20: -826124650880620625
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_21: 8188988543334967800
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_22: -1736462661368012458
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_23: 5688948035320306894
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_24: 5693592541281830933
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_25: -8040830692186740580
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_26: -8290611525473884213
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_27: 1061784628703822218
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_28: -4909754212389011779
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_29: 5723116875314033407
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_3: 8103177710676027544
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_30: -5249199260174503612
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_31: -3526501818855158775
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_32: -2199426732957093323
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_33: -1526534132706042797
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_34: -6120958417863634594
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_35: -1323012561866549350
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_36: 7956024387158964230
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_37: -2501498046425385689
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_38: 339768516800002954
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_39: -1076912816750435035
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_4: 7477774864091961814
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_40: -8474671889884131911
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_41: 8889459296441641789
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_42: -7162164776515436975
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_43: 5354196341964711495
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_44: 3240118289219462237
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_45: -5548585260069271918
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_46: -5458980879183239009
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_47: -1855559988621629860
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_48: -4974242920812476318
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_49: 8784689826606047458
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_5: 2651282823909624933
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_50: -5640067791431040680
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_51: -6486152330156807285
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_52: 4150257992973362562
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_53: 3110548918978937952
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_54: -5898937815792890707
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_55: 2656629264175559295
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_56: 15420832185761936
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_57: 2931469639634670048
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_58: -8187403155268187728
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_59: -6129810311926053203
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_6: 5402151698514514760
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_60: -990357331098074600
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_61: -3214999174047736317
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_62: -9163362136033432342
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_63: -4789260969548703436
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_64: -8223262733658003939
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_65: 6364329448001712883
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_66: 2429563988825194954
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_67: 3856774323489779002
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_68: -7916232572977982623
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_69: -1951947660659142110
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_7: -4954176087237078454
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_70: -1136456762382629600
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_71: -4796607937865384734
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_72: 7582395838734380233
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_73: -2773809449372685909
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_74: -4513255187839430301
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_75: 2025949962489997702
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_76: 4896781301808749172
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_77: 4419826949832658472
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_78: -3446747572578746645
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_79: -5029237648914817786
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_8: -5417081429720611940
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_80: -5087570616638986192
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_81: 8053153343961816997
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_82: -9095678170407146927
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_83: 560759095014731779
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_84: 9051261857191624166
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_85: 782331822360825388
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_86: -8718550796972011801
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_87: 7345534521895805886
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_88: -9087234722609208698
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_89: -2599381253599580559
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_9: 3019466380327146237
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_90: 6737744397729693913
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_91: -5557713497164058287
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_92: 547727379726197093
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_93: 1312511123599440643
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_94: 5825443497388795808
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_95: -8024885574255060547
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_96: 2437679246068072999
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_97: 2236806754815644723
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_98: 2242475041425260713
+      Neo Geo _ NGCD - Metal Slug 3 - Enemies & Bosses - UFO_99: 730475453790904367
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

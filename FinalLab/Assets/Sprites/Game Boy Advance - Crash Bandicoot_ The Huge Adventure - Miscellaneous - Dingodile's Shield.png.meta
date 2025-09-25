@@ -1,0 +1,856 @@
+fileFormatVersion: 2
+guid: 715c13c469c9b1c40b8016fc67aef038
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7900283446980572759
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_0
+  - first:
+      213: -1215723082428462081
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_1
+  - first:
+      213: 1334716121445867299
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_2
+  - first:
+      213: -311803087105979187
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_3
+  - first:
+      213: 6091908894748987753
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_4
+  - first:
+      213: -2961481364048091182
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_5
+  - first:
+      213: 8601014250553450492
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_6
+  - first:
+      213: 6014827159257202160
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_7
+  - first:
+      213: -2053830567367179337
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_8
+  - first:
+      213: -2559049707201587380
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_9
+  - first:
+      213: -6674471489812444211
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_10
+  - first:
+      213: 4957350347802758911
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_11
+  - first:
+      213: 7692925271352713137
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_12
+  - first:
+      213: -7538572590086583539
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_13
+  - first:
+      213: -1793800865961947728
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_14
+  - first:
+      213: 8965155188152754047
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_15
+  - first:
+      213: -5968733970229466004
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_16
+  - first:
+      213: -5541391693857406897
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_17
+  - first:
+      213: 7806745910719868267
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_18
+  - first:
+      213: 4429968583813584468
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_19
+  - first:
+      213: -7524477899449375615
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_20
+  - first:
+      213: -2112406818267949342
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_21
+  - first:
+      213: -3086414259366241550
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_22
+  - first:
+      213: -6054655646490822695
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_23
+  - first:
+      213: -3296150667743896375
+    second: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+      - Dingodile's Shield_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756fc2200f173ad60800000000000000
+      internalID: 7900283446980572759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 144
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbcb963c42e02fe0800000000000000
+      internalID: -1215723082428462081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 146
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f94c6ad3dd58210800000000000000
+      internalID: 1334716121445867299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 145
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc8d298eb04cabf0800000000000000
+      internalID: -311803087105979187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 145
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9615e8b0ddeca8450800000000000000
+      internalID: 6091908894748987753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 145
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d769f6d364b6e6d0800000000000000
+      internalID: -2961481364048091182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_6
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 144
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff9f4804e0fc5770800000000000000
+      internalID: 8601014250553450492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_7
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 145
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdb5e4fe65f87350800000000000000
+      internalID: 6014827159257202160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 101
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b38d3b0bf35f73e0800000000000000
+      internalID: -2053830567367179337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_9
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c479ea789dd6c7cd0800000000000000
+      internalID: -2559049707201587380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_10
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 42
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbc14afa838f53a0800000000000000
+      internalID: -6674471489812444211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_11
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 47
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe41fb40eb0cc440800000000000000
+      internalID: 4957350347802758911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_12
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 3
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf9a9286c2c2ca60800000000000000
+      internalID: 7692925271352713137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_13
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 30
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b846e9b2c916790800000000000000
+      internalID: -7538572590086583539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 35
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdcc8acd932b17e0800000000000000
+      internalID: -1793800865961947728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_15
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 24
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f581ae421aa6c70800000000000000
+      internalID: 8965155188152754047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_16
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 22
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c6aa9e31cca2da0800000000000000
+      internalID: -5968733970229466004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_17
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 28
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40445e2d950913b0800000000000000
+      internalID: -5541391693857406897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_18
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6de03c3b02275c60800000000000000
+      internalID: 7806745910719868267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_19
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 8
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456595cb4f86a7d30800000000000000
+      internalID: 4429968583813584468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_20
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 13
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184ea03873fa39790800000000000000
+      internalID: -7524477899449375615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_21
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 0
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e69608d0393fa2e0800000000000000
+      internalID: -2112406818267949342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_22
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa56c8659ada25d0800000000000000
+      internalID: -3086414259366241550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_23
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 7
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7f999b4ca89fba0800000000000000
+      internalID: -6054655646490822695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous
+        - Dingodile's Shield_24
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc55f27e68b142d0800000000000000
+      internalID: -3296150667743896375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_0: 7900283446980572759
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_1: -1215723082428462081
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_10: -6674471489812444211
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_11: 4957350347802758911
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_12: 7692925271352713137
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_13: -7538572590086583539
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_14: -1793800865961947728
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_15: 8965155188152754047
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_16: -5968733970229466004
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_17: -5541391693857406897
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_18: 7806745910719868267
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_19: 4429968583813584468
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_2: 1334716121445867299
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_20: -7524477899449375615
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_21: -2112406818267949342
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_22: -3086414259366241550
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_23: -6054655646490822695
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_24: -3296150667743896375
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_3: -311803087105979187
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_4: 6091908894748987753
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_5: -2961481364048091182
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_6: 8601014250553450492
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_7: 6014827159257202160
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_8: -2053830567367179337
+      Game Boy Advance - Crash Bandicoot_ The Huge Adventure - Miscellaneous - Dingodile's Shield_9: -2559049707201587380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

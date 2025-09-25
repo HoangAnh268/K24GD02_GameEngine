@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: a3f16aa399635914a8a3672f4c757e88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8126784375118225662
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_0
+  - first:
+      213: 3971030390005796251
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_1
+  - first:
+      213: -2550789830571365003
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_2
+  - first:
+      213: -639793326709375886
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_3
+  - first:
+      213: -6777301512482079426
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_4
+  - first:
+      213: 5285495317403807261
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_5
+  - first:
+      213: -7226716653461086270
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_6
+  - first:
+      213: 762620575091048672
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_7
+  - first:
+      213: -4638314856944192070
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_8
+  - first:
+      213: -7474727871275260940
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_9
+  - first:
+      213: -5980038997679132449
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_10
+  - first:
+      213: -831880766978861715
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_11
+  - first:
+      213: 4763078044735351778
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_12
+  - first:
+      213: 6362124329269923966
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_13
+  - first:
+      213: 6202735314597349585
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_14
+  - first:
+      213: 6010932069630977960
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_15
+  - first:
+      213: 5218584725683254170
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_16
+  - first:
+      213: -6541970699958780060
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_17
+  - first:
+      213: 985643477966088720
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_18
+  - first:
+      213: -6280060400142162387
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_19
+  - first:
+      213: -5667726015313397602
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_20
+  - first:
+      213: -2868420172426749754
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_21
+  - first:
+      213: -8924402147077093374
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_22
+  - first:
+      213: 764192122063759868
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_23
+  - first:
+      213: 2227101808696615477
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_24
+  - first:
+      213: -1270726781129842014
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_25
+  - first:
+      213: -4847069107799654115
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_26
+  - first:
+      213: -1355741232899574837
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_27
+  - first:
+      213: -6028095487705409381
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_28
+  - first:
+      213: 6611375753353050851
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_29
+  - first:
+      213: 3585082028718809759
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_30
+  - first:
+      213: -5895631892185018108
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_31
+  - first:
+      213: -5002588858080438927
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_32
+  - first:
+      213: -1879607805951816966
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_33
+  - first:
+      213: 9188910758298607702
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_34
+  - first:
+      213: 3418029799837848395
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_35
+  - first:
+      213: 4876831152269960921
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_36
+  - first:
+      213: 3694035283415290749
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_37
+  - first:
+      213: 8855301678283099706
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_38
+  - first:
+      213: 4793522064996244001
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_39
+  - first:
+      213: 7935553897840817391
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_40
+  - first:
+      213: 9139942390762107371
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_41
+  - first:
+      213: -942099696527112915
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_42
+  - first:
+      213: -8539020943438482836
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_43
+  - first:
+      213: -2792352661077761822
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_44
+  - first:
+      213: 2065345857252825166
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_45
+  - first:
+      213: 5875698826840986419
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_46
+  - first:
+      213: -3714468134803849125
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_47
+  - first:
+      213: -6468769505257620574
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_48
+  - first:
+      213: 3279244956039487893
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_49
+  - first:
+      213: -2190099485710523488
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_50
+  - first:
+      213: -40859109344475929
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_51
+  - first:
+      213: -2598795691631626620
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_52
+  - first:
+      213: 5780207728156292886
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_53
+  - first:
+      213: -1312194841446509361
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_54
+  - first:
+      213: -3733728062334723765
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_55
+  - first:
+      213: 2515809779431061091
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_56
+  - first:
+      213: -4703226606615011564
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_57
+  - first:
+      213: -4161373166900242267
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_58
+  - first:
+      213: -6298346841500587568
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_59
+  - first:
+      213: -4323014113141414172
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_60
+  - first:
+      213: -7336479721579002281
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_61
+  - first:
+      213: 9026184300983343892
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_62
+  - first:
+      213: -6447235104752197897
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_63
+  - first:
+      213: 5871687357227967941
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_64
+  - first:
+      213: -6035016997782196764
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_65
+  - first:
+      213: -7183166655166031246
+    second: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 121
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0ed15e45328c070800000000000000
+      internalID: 8126784375118225662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 120
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d839ca91feb1730800000000000000
+      internalID: 3971030390005796251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 120
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d6d1ce926c99cd0800000000000000
+      internalID: -2550789830571365003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 119
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c72dfeb5ffe17f0800000000000000
+      internalID: -639793326709375886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 120
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3db9cc9e2032f1a0800000000000000
+      internalID: -6777301512482079426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_5
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 121
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e28d7ccf9d95940800000000000000
+      internalID: 5285495317403807261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 122
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf5d021e7b85bb90800000000000000
+      internalID: -7226716653461086270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 122
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0c4bc5f5f559a00800000000000000
+      internalID: 762620575091048672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 106
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5bc63663561afb0800000000000000
+      internalID: -4638314856944192070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 106
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f32de79a9e644890800000000000000
+      internalID: -7474727871275260940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 105
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd03a581732a20da0800000000000000
+      internalID: -5980038997679132449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 104
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65deb499d09474f0800000000000000
+      internalID: -831880766978861715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 104
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eba9edee3ad91240800000000000000
+      internalID: 4763078044735351778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7011079e5eca4850800000000000000
+      internalID: 6362124329269923966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 104
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d88856b7ea841650800000000000000
+      internalID: 6202735314597349585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 103
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7ab5bbede1b6350800000000000000
+      internalID: 6010932069630977960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 76
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9331a4a8232c6840800000000000000
+      internalID: 5218584725683254170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 74
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f71f92f404635a0800000000000000
+      internalID: -6541970699958780060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 54
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a69536585bdad00800000000000000
+      internalID: 985643477966088720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 46
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d266789d65eb8d8a0800000000000000
+      internalID: -6280060400142162387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 54
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98310dc7313851b0800000000000000
+      internalID: -5667726015313397602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 152
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c850fbfc035138d0800000000000000
+      internalID: -2868420172426749754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2088cbed787262480800000000000000
+      internalID: -8924402147077093374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf923c7afa4fa9a00800000000000000
+      internalID: 764192122063759868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532edf99b4148ee10800000000000000
+      internalID: 2227101808696615477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a22e24a9b87d5ee0800000000000000
+      internalID: -1270726781129842014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1105dbc350cbbcb0800000000000000
+      internalID: -4847069107799654115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3bbad18807f2de0800000000000000
+      internalID: -1355741232899574837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b981f279717e75ca0800000000000000
+      internalID: -6028095487705409381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea3d37183350cb50800000000000000
+      internalID: 6611375753353050851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92eb6c4c15c0c130800000000000000
+      internalID: 3585082028718809759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40119dbc7028e2ea0800000000000000
+      internalID: -5895631892185018108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175d9cc30fb339ab0800000000000000
+      internalID: -5002588858080438927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afac039b8aa4ae5e0800000000000000
+      internalID: -1879607805951816966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650672556a1958f70800000000000000
+      internalID: 9188910758298607702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43d8035ef74f6f20800000000000000
+      internalID: 3418029799837848395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d62c9c281cfda340800000000000000
+      internalID: 4876831152269960921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d735ab7b489d34330800000000000000
+      internalID: 3694035283415290749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e0cf085f954ea70800000000000000
+      internalID: 8855301678283099706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a1913cbe2068240800000000000000
+      internalID: 4793522064996244001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4b4c8c930c02e60800000000000000
+      internalID: 7935553897840817391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1f8eccd2997de70800000000000000
+      internalID: 9139942390762107371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d258f75415dfce2f0800000000000000
+      internalID: -942099696527112915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c627ab091bd4f7980800000000000000
+      internalID: -8539020943438482836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0e7dc9c029f39d0800000000000000
+      internalID: -2792352661077761822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4811ef4d1599ac10800000000000000
+      internalID: 2065345857252825166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_46
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3335905c3fcaa8150800000000000000
+      internalID: 5875698826840986419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50428759ee837cc0800000000000000
+      internalID: -3714468134803849125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab7d3178605a36a0800000000000000
+      internalID: -6468769505257620574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591a930d9e7328d20800000000000000
+      internalID: 3279244956039487893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a365731f143b91e0800000000000000
+      internalID: -2190099485710523488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e40fa54bd6de6ff0800000000000000
+      internalID: -40859109344475929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_52
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4863b7466193febd0800000000000000
+      internalID: -2598795691631626620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61739bccd4c673050800000000000000
+      internalID: 5780207728156292886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc41b777eb52acde0800000000000000
+      internalID: -1312194841446509361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_55
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4991a40c122f2cc0800000000000000
+      internalID: -3733728062334723765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_56
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36631714aa3f9e220800000000000000
+      internalID: 2515809779431061091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fdb8ee158cabeb0800000000000000
+      internalID: -4703226606615011564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a891111725df36c0800000000000000
+      internalID: -4161373166900242267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_59
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d96720fae6c798a0800000000000000
+      internalID: -6298346841500587568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_60
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6a43381919104c0800000000000000
+      internalID: -4323014113141414172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7564d6540969f2a90800000000000000
+      internalID: -7336479721579002281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bd1598cc2734d70800000000000000
+      internalID: 9026184300983343892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_63
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe11d5c4d1d686a0800000000000000
+      internalID: -6447235104752197897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_64
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5a9b7ba8c6c7150800000000000000
+      internalID: 5871687357227967941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_65
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed6fb1f3005f3ca0800000000000000
+      internalID: -6035016997782196764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Time Pilot - Playable Characters - Time Pilot Ship_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ad5643cf3405c90800000000000000
+      internalID: -7183166655166031246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_0: 8126784375118225662
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_1: 3971030390005796251
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_10: -5980038997679132449
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_11: -831880766978861715
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_12: 4763078044735351778
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_13: 6362124329269923966
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_14: 6202735314597349585
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_15: 6010932069630977960
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_16: 5218584725683254170
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_17: -6541970699958780060
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_18: 985643477966088720
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_19: -6280060400142162387
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_2: -2550789830571365003
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_20: -5667726015313397602
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_21: -2868420172426749754
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_22: -8924402147077093374
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_23: 764192122063759868
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_24: 2227101808696615477
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_25: -1270726781129842014
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_26: -4847069107799654115
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_27: -1355741232899574837
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_28: -6028095487705409381
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_29: 6611375753353050851
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_3: -639793326709375886
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_30: 3585082028718809759
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_31: -5895631892185018108
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_32: -5002588858080438927
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_33: -1879607805951816966
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_34: 9188910758298607702
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_35: 3418029799837848395
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_36: 4876831152269960921
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_37: 3694035283415290749
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_38: 8855301678283099706
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_39: 4793522064996244001
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_4: -6777301512482079426
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_40: 7935553897840817391
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_41: 9139942390762107371
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_42: -942099696527112915
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_43: -8539020943438482836
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_44: -2792352661077761822
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_45: 2065345857252825166
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_46: 5875698826840986419
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_47: -3714468134803849125
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_48: -6468769505257620574
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_49: 3279244956039487893
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_5: 5285495317403807261
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_50: -2190099485710523488
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_51: -40859109344475929
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_52: -2598795691631626620
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_53: 5780207728156292886
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_54: -1312194841446509361
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_55: -3733728062334723765
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_56: 2515809779431061091
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_57: -4703226606615011564
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_58: -4161373166900242267
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_59: -6298346841500587568
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_6: -7226716653461086270
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_60: -4323014113141414172
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_61: -7336479721579002281
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_62: 9026184300983343892
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_63: -6447235104752197897
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_64: 5871687357227967941
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_65: -6035016997782196764
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_66: -7183166655166031246
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_7: 762620575091048672
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_8: -4638314856944192070
+      Arcade - Time Pilot - Playable Characters - Time Pilot Ship_9: -7474727871275260940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

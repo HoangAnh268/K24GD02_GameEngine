@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: d283c76b4ed6e22469b348c479418e76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1801814574249315322
+    second: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_0
+  - first:
+      213: -711359375510630352
+    second: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_1
+  - first:
+      213: 1304480759057187056
+    second: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_2
+  - first:
+      213: 8928242134804272057
+    second: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_3
+  - first:
+      213: -6136653074003302249
+    second: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_4
+  - first:
+      213: -9124293283500768678
+    second: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_5
+  - first:
+      213: 1877348225085839763
+    second: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_6
+  - first:
+      213: 7607419030631114845
+    second: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_7
+  - first:
+      213: 7188941627922417746
+    second: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_8
+  - first:
+      213: 8265058872270826140
+    second: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_9
+  - first:
+      213: 7618961076689843060
+    second: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_10
+  - first:
+      213: -9005699657827729659
+    second: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_11
+  - first:
+      213: 4723660793227025208
+    second: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_12
+  - first:
+      213: 6211739382558005158
+    second: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 116
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6047fbee03baef6e0800000000000000
+      internalID: -1801814574249315322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0309b0bba6eb026f0800000000000000
+      internalID: -711359375510630352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f08fe3c6527a1210800000000000000
+      internalID: 1304480759057187056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2
+        width: 116
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b31fa1faec77eb70800000000000000
+      internalID: 8928242134804272057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7986936ea8a36daa0800000000000000
+      internalID: -6136653074003302249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1
+        width: 106
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52447ae99fff5180800000000000000
+      internalID: -9124293283500768678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 25
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39993fb934ead0a10800000000000000
+      internalID: 1877348225085839763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5860527d4bf29960800000000000000
+      internalID: 7607419030631114845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258855b625044c360800000000000000
+      internalID: 7188941627922417746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9aa461114363b270800000000000000
+      internalID: 8265058872270826140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 3
+        width: 116
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47330a57bbcfbb960800000000000000
+      internalID: 7618961076689843060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_11
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f325d10e3550380800000000000000
+      internalID: -9005699657827729659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_12
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1
+        width: 106
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b9cb3e670dd8140800000000000000
+      internalID: 4723660793227025208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_13
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a79ca6ae08843650800000000000000
+      internalID: 6211739382558005158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_0: -1801814574249315322
+      Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_1: -711359375510630352
+      Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_10: 7618961076689843060
+      Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_11: -9005699657827729659
+      Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_12: 4723660793227025208
+      Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_13: 6211739382558005158
+      Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_2: 1304480759057187056
+      Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_3: 8928242134804272057
+      Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_4: -6136653074003302249
+      Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_5: -9124293283500768678
+      Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_6: 1877348225085839763
+      Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_7: 7607419030631114845
+      Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_8: 7188941627922417746
+      Mobile - Idle Monster Tower Defense - Enemies - Tech Ship 1_9: 8265058872270826140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

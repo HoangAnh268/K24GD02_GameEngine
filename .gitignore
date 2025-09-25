@@ -159,3 +159,9 @@ lab2-Flappybird/Assets/TextMesh Pro/Sprites/EmojiOne.png
 lab2-Flappybird/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
 lab2-Flappybird/ProjectSettings/ProjectVersion.txt
 lab2-Flappybird/ProjectSettings/SceneTemplateSettings.json
+/FinalLab/Library
+*.vsidx
+*.user
+*.db
+*.json
+FinalLab/FinalLab.sln

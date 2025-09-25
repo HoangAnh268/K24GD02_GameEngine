@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: 726ab270a73dfd64983d86dc668e8b89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8178298104439806023
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_0
+  - first:
+      213: -1962624876358861565
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_1
+  - first:
+      213: 8909200245360635887
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_2
+  - first:
+      213: -7987266673849155885
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_3
+  - first:
+      213: -8194772137855308708
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_4
+  - first:
+      213: 3603677827866477556
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_5
+  - first:
+      213: -9048542395653454780
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_6
+  - first:
+      213: 7869855131478872490
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_7
+  - first:
+      213: -142224385793445858
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_8
+  - first:
+      213: -361794676838697986
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_9
+  - first:
+      213: -7340544598938831611
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_10
+  - first:
+      213: 2854500202277402458
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_11
+  - first:
+      213: 7621672192097680941
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_12
+  - first:
+      213: -1043842972816222935
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_13
+  - first:
+      213: -896682723360985299
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_14
+  - first:
+      213: 5317378943756241833
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_15
+  - first:
+      213: -6602123245349402178
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_16
+  - first:
+      213: 8457154349922678912
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_17
+  - first:
+      213: -7566132455035371079
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_18
+  - first:
+      213: -134490020684803486
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_19
+  - first:
+      213: -2753387151272164461
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_20
+  - first:
+      213: -8574668938130651239
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_21
+  - first:
+      213: -792066205758982147
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_22
+  - first:
+      213: -3700535162511203472
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_23
+  - first:
+      213: 4795910730485210915
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_24
+  - first:
+      213: -4273531523999898885
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_25
+  - first:
+      213: 1177866141071836192
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_26
+  - first:
+      213: 5019333996728946829
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_27
+  - first:
+      213: 7152275091841015335
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_28
+  - first:
+      213: -6921406492897257541
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_29
+  - first:
+      213: 245130857231094263
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_30
+  - first:
+      213: -5423791564317396560
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_31
+  - first:
+      213: -7985416203472863079
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_32
+  - first:
+      213: 4498370769553926913
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_33
+  - first:
+      213: 3312198599679307349
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_34
+  - first:
+      213: 1628115149618577292
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_35
+  - first:
+      213: 7275598990818650765
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_36
+  - first:
+      213: 4725927015331385631
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_37
+  - first:
+      213: 2596430966478722711
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_38
+  - first:
+      213: 1426668541753842288
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_39
+  - first:
+      213: -706401927400404007
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_40
+  - first:
+      213: 2801259828415031143
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_41
+  - first:
+      213: 6985545920460519693
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_42
+  - first:
+      213: 4691517231000159007
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_43
+  - first:
+      213: -1432558365283934514
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_44
+  - first:
+      213: 1620781688338352220
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_45
+  - first:
+      213: -8079925707928500910
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_46
+  - first:
+      213: -2200255660637630270
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_47
+  - first:
+      213: -169120612435322712
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_48
+  - first:
+      213: -3560220117625271727
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_49
+  - first:
+      213: 1608180012734715251
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_50
+  - first:
+      213: -4706175379248803778
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_51
+  - first:
+      213: -8566044604753349740
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_52
+  - first:
+      213: -1626345868031668928
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_53
+  - first:
+      213: 1280686645866898316
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_54
+  - first:
+      213: -7060410690405980539
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_55
+  - first:
+      213: 8235277498779194466
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_56
+  - first:
+      213: -3141664392949910122
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_57
+  - first:
+      213: -447162945892952334
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_58
+  - first:
+      213: 882520406218650144
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_59
+  - first:
+      213: -5716969548311323234
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_60
+  - first:
+      213: 2154940688087321578
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_61
+  - first:
+      213: -1703262251709109712
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_62
+  - first:
+      213: 4796624974098183232
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_63
+  - first:
+      213: 3692046858627213963
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_64
+  - first:
+      213: -1658628876874510797
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_65
+  - first:
+      213: -7576398419729756116
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_66
+  - first:
+      213: 7751726212272824594
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_67
+  - first:
+      213: 6285312235383309693
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_68
+  - first:
+      213: 6951123415609215496
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_69
+  - first:
+      213: 994120419556316295
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_70
+  - first:
+      213: -4090778818816907252
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_71
+  - first:
+      213: 748095367615920867
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_72
+  - first:
+      213: -2126281338936575556
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_73
+  - first:
+      213: 2433494101842440880
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_74
+  - first:
+      213: 2917840141498469102
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_75
+  - first:
+      213: 3014379123166885408
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_76
+  - first:
+      213: 5879007142245434268
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_77
+  - first:
+      213: 2040087490984079076
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_78
+  - first:
+      213: 3836502461459639047
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_79
+  - first:
+      213: 8564931787905247678
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_80
+  - first:
+      213: -3025087887319599101
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_81
+  - first:
+      213: 985397549711210765
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_82
+  - first:
+      213: -9195590462644135034
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_83
+  - first:
+      213: -7098705871881454572
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_84
+  - first:
+      213: -5272994678240464882
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_85
+  - first:
+      213: -5357385704619924627
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_86
+  - first:
+      213: 3239840920567348773
+    second: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 326
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b76d995439d08e80800000000000000
+      internalID: -8178298104439806023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 283
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30df849c21b53c4e0800000000000000
+      internalID: -1962624876358861565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 283
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef2b819b66d3ab70800000000000000
+      internalID: 8909200245360635887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 283
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deb7ea4747872190800000000000000
+      internalID: -7987266673849155885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 283
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5caddb8822564e80800000000000000
+      internalID: -8194772137855308708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 283
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ceee24e5d20230800000000000000
+      internalID: 3603677827866477556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 283
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4448304e1ae1d6280800000000000000
+      internalID: -9048542395653454780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 284
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa15599bb87573d60800000000000000
+      internalID: 7869855131478872490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 284
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e103266bca7b60ef0800000000000000
+      internalID: -142224385793445858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 284
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3f66588a5aafaf0800000000000000
+      internalID: -361794676838697986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 284
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505b6524495212a90800000000000000
+      internalID: -7340544598938831611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 284
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5776086fc83d9720800000000000000
+      internalID: 2854500202277402458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 284
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e74743a7e95c960800000000000000
+      internalID: 7621672192097680941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_13
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 283
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9255004c8568381f0800000000000000
+      internalID: -1043842972816222935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_14
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 282
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fa6dd50d75e83f0800000000000000
+      internalID: -896682723360985299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_15
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 283
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab8bb60aff1bc940800000000000000
+      internalID: 5317378943756241833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_16
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 282
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9899d43eb8064a0800000000000000
+      internalID: -6602123245349402178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 269
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0887ac5c219dd5570800000000000000
+      internalID: 8457154349922678912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 241
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b100168e92bff690800000000000000
+      internalID: -7566132455035371079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_19
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 241
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2625f3be902322ef0800000000000000
+      internalID: -134490020684803486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 241
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3934c4759f00ac9d0800000000000000
+      internalID: -2753387151272164461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 241
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99785240808a00980800000000000000
+      internalID: -8574668938130651239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 243
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7f42f7bf30205f0800000000000000
+      internalID: -792066205758982147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 244
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0736daf30ee05acc0800000000000000
+      internalID: -3700535162511203472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 246
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f1e09466f7e8240800000000000000
+      internalID: 4795910730485210915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 240
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf26d8798bd51b4c0800000000000000
+      internalID: -4273531523999898885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 237
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0240c83c30f985010800000000000000
+      internalID: 1177866141071836192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_27
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 235
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80121c2da148a540800000000000000
+      internalID: 5019333996728946829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 234
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ede093d4cf14360800000000000000
+      internalID: 7152275091841015335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 233
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7d6c4477932ff90800000000000000
+      internalID: -6921406492897257541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_30
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 232
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f11fb44731e66300800000000000000
+      internalID: 245130857231094263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_31
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 246
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1f9190f42dab4b0800000000000000
+      internalID: -5423791564317396560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 222
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9900a50854a1e2190800000000000000
+      internalID: -7985416203472863079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 204
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b234ba16c6d6e30800000000000000
+      internalID: 4498370769553926913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 191
+        width: 74
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e6e6fd31b47fd20800000000000000
+      internalID: 3312198599679307349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 148
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f727a3a1a389610800000000000000
+      internalID: 1628115149618577292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_36
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 148
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8aafeffbbe18f460800000000000000
+      internalID: 7275598990818650765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 149
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11df37d49dd59140800000000000000
+      internalID: 4725927015331385631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_38
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 148
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796d9c02530680420800000000000000
+      internalID: 2596430966478722711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_39
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 148
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a567bda7b8cc310800000000000000
+      internalID: 1426668541753842288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_40
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 148
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbc5a0903b5236f0800000000000000
+      internalID: -706401927400404007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 149
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767ef34e8f210e620800000000000000
+      internalID: 2801259828415031143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 149
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d097a3fe005a1f060800000000000000
+      internalID: 6985545920460519693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_43
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 149
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13836b901e9b1140800000000000000
+      internalID: 4691517231000159007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_44
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 149
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece9c3db1c78e1ce0800000000000000
+      internalID: -1432558365283934514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_45
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 149
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c588dd7bb5c2e7610800000000000000
+      internalID: 1620781688338352220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_46
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 149
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255006fb0665edf80800000000000000
+      internalID: -8079925707928500910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_47
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 148
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0d6a4522f1771e0800000000000000
+      internalID: -2200255660637630270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_48
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 147
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a89893f2b927adf0800000000000000
+      internalID: -169120612435322712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_49
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 148
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a0fb67aae879ec0800000000000000
+      internalID: -3560220117625271727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_50
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 147
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3759fe97337615610800000000000000
+      internalID: 1608180012734715251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 134
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e309f2d4d6e40beb0800000000000000
+      internalID: -4706175379248803778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 79
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493768b11db4f1980800000000000000
+      internalID: -8566044604753349740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_53
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 78
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d4c0ebc0f0e69e0800000000000000
+      internalID: -1626345868031668928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 75
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83ab7318b9e5c110800000000000000
+      internalID: 1280686645866898316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_55
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 112
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5862bfd72e1640e90800000000000000
+      internalID: -7060410690405980539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_56
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 118
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2645085b045994270800000000000000
+      internalID: 8235277498779194466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_57
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 74
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6953abe31e09664d0800000000000000
+      internalID: -3141664392949910122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_58
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 114
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6555d7bab5bc9f0800000000000000
+      internalID: -447162945892952334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_59
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 73
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02232b732a75f3c00800000000000000
+      internalID: 882520406218650144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_60
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 71
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d9d215c7e39a0b0800000000000000
+      internalID: -5716969548311323234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_61
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 74
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb0b717323e7ed10800000000000000
+      internalID: 2154940688087321578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_62
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 76
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03aeb8f910ccc58e0800000000000000
+      internalID: -1703262251709109712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 72
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044b3e51009019240800000000000000
+      internalID: 4796624974098183232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_64
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 113
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a629e7e09cc3330800000000000000
+      internalID: 3692046858627213963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_65
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 73
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e80b303dd5bf8e0800000000000000
+      internalID: -1658628876874510797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_66
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 75
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c205d2b57c93bd690800000000000000
+      internalID: -7576398419729756116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_67
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 75
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2112b9e6be9a39b60800000000000000
+      internalID: 7751726212272824594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_68
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 75
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7540745d2ae93750800000000000000
+      internalID: 6285312235383309693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_69
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a8949fae9577060800000000000000
+      internalID: 6951123415609215496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_70
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784dd972143dbcd00800000000000000
+      internalID: 994120419556316295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_71
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 93
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08e9b19652aa37c0800000000000000
+      internalID: -4090778818816907252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 13
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eabcd4f5c4c16a00800000000000000
+      internalID: 748095367615920867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_73
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 12
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9b424436eed72e0800000000000000
+      internalID: -2126281338936575556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_74
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 10
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2b35f0ef185c120800000000000000
+      internalID: 2433494101842440880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_75
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 9
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea446936204e7820800000000000000
+      internalID: 2917840141498469102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 12
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02637b677d935d920800000000000000
+      internalID: 3014379123166885408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_77
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 52
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c930689f8dd669150800000000000000
+      internalID: 5879007142245434268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_78
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 11
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eee2d2a3c8df4c10800000000000000
+      internalID: 2040087490984079076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_79
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ba63b79aefd3530800000000000000
+      internalID: 3836502461459639047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_80
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 54
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb92b870510ccd670800000000000000
+      internalID: 8564931787905247678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_81
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 15
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3087af5189ab406d0800000000000000
+      internalID: -3025087887319599101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_82
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 21
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09b311c9d5dcad00800000000000000
+      internalID: 985397549711210765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_83
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 21
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b502ec133b26080800000000000000
+      internalID: -9195590462644135034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_84
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cb68dbe945c7d90800000000000000
+      internalID: -7098705871881454572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_85
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 22
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00b3f4174f82d6b0800000000000000
+      internalID: -5272994678240464882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_86
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 9
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63af57161eb6a5b0800000000000000
+      internalID: -5357385704619924627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_87
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 21
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ef03fd62a36fc20800000000000000
+      internalID: 3239840920567348773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_0: -8178298104439806023
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_1: -1962624876358861565
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_10: -7340544598938831611
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_11: 2854500202277402458
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_12: 7621672192097680941
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_13: -1043842972816222935
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_14: -896682723360985299
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_15: 5317378943756241833
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_16: -6602123245349402178
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_17: 8457154349922678912
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_18: -7566132455035371079
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_19: -134490020684803486
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_2: 8909200245360635887
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_20: -2753387151272164461
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_21: -8574668938130651239
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_22: -792066205758982147
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_23: -3700535162511203472
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_24: 4795910730485210915
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_25: -4273531523999898885
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_26: 1177866141071836192
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_27: 5019333996728946829
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_28: 7152275091841015335
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_29: -6921406492897257541
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_3: -7987266673849155885
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_30: 245130857231094263
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_31: -5423791564317396560
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_32: -7985416203472863079
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_33: 4498370769553926913
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_34: 3312198599679307349
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_35: 1628115149618577292
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_36: 7275598990818650765
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_37: 4725927015331385631
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_38: 2596430966478722711
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_39: 1426668541753842288
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_4: -8194772137855308708
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_40: -706401927400404007
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_41: 2801259828415031143
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_42: 6985545920460519693
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_43: 4691517231000159007
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_44: -1432558365283934514
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_45: 1620781688338352220
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_46: -8079925707928500910
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_47: -2200255660637630270
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_48: -169120612435322712
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_49: -3560220117625271727
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_5: 3603677827866477556
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_50: 1608180012734715251
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_51: -4706175379248803778
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_52: -8566044604753349740
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_53: -1626345868031668928
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_54: 1280686645866898316
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_55: -7060410690405980539
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_56: 8235277498779194466
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_57: -3141664392949910122
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_58: -447162945892952334
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_59: 882520406218650144
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_6: -9048542395653454780
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_60: -5716969548311323234
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_61: 2154940688087321578
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_62: -1703262251709109712
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_63: 4796624974098183232
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_64: 3692046858627213963
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_65: -1658628876874510797
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_66: -7576398419729756116
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_67: 7751726212272824594
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_68: 6285312235383309693
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_69: 6951123415609215496
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_7: 7869855131478872490
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_70: 994120419556316295
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_71: -4090778818816907252
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_72: 748095367615920867
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_73: -2126281338936575556
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_74: 2433494101842440880
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_75: 2917840141498469102
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_76: 3014379123166885408
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_77: 5879007142245434268
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_78: 2040087490984079076
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_79: 3836502461459639047
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_8: -142224385793445858
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_80: 8564931787905247678
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_81: -3025087887319599101
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_82: 985397549711210765
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_83: -9195590462644135034
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_84: -7098705871881454572
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_85: -5272994678240464882
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_86: -5357385704619924627
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_87: 3239840920567348773
+      Mobile - Metal Slug Defense - Units_ Aliens - Mini UFO (Ver 1.3) 1_9: -361794676838697986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
